@@ -1,1 +1,2 @@
-console.log('Errr 500');
+let x=1;
+console.log(x);
